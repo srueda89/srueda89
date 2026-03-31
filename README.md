@@ -4,8 +4,8 @@
 Front-end delivery for marketing teams, CMS ecosystems, and eCommerce.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-srueda.dev-black)](https://srueda.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](PON_TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:PON_TU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/seru15/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sebrueda89@gmail.com)
 
 ---
 
@@ -146,9 +146,9 @@ Contentful migration and front-end implementation for enterprise workflows.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srueda89&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srueda89&layout=compact)
 
 ---
 
