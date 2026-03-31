@@ -16,6 +16,12 @@ I focus on production-safe delivery while collaborating closely with marketing, 
 - 🧠 Strong focus on **performance, QA, and clean architecture**
 - 🚀 Experienced working with remote teams in agile environments
 
+> 📌 **Note:** This is a newly centralized GitHub account.
+>
+> Previous work was historically distributed across multiple legacy and project-specific accounts used for client deliveries, agency work, and standalone builds.
+>
+> Repositories and featured work are currently being consolidated here.
+
 ## 🛠 Technologies & Tools
 
 ### CMS / eCommerce
@@ -55,14 +61,14 @@ I focus on production-safe delivery while collaborating closely with marketing, 
 
 ### WordPress / CMS Delivery
 - custom theme development
-- **ACF flexible layouts**
+- ACF flexible layouts
 - Gutenberg blocks
 - WooCommerce support
 - multisite environments
 - custom plugin integrations
 
 ### Shopify / eCommerce
-- **custom sections development**
+- custom sections development
 - PDP systems
 - conversion-focused layouts
 - reusable Liquid components
